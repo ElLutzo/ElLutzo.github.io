@@ -5,3 +5,5 @@ On October 2, 1988, in the small town of Middlesex, Virginia, troubled teenager 
 * sleepwalks
 * meets a figure in a monstrous rabbit costume
 
+> Why do you wear that stupid bunny suit?
+
