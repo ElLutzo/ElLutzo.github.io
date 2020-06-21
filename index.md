@@ -7,6 +7,6 @@ On October 2, 1988, in the small town of Middlesex, Virginia, troubled teenager 
 
 > Why do you wear that stupid bunny suit?
 
-<img src="https://en.wikipedia.org/wiki/Donnie_Darko#/media/File:Donnie_Darko_poster.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/db/Donnie_Darko_poster.jpg" />
 (https://en.wikipedia.org/wiki/Donnie_Darko#/media/File:Donnie_Darko_poster.jpg)
 
